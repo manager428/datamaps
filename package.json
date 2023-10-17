@@ -3,17 +3,18 @@
   "main": "dist/datamaps.all.js",
   "description": "datamaps with d3.js",
   "version": "0.5.9",
-  "author": "Mark DiMarco<markmarkoh@gmail.com>",
+  "author": "Mark Hanz<sweetbigdream428@gmail.com>",
   "contributors": [
     "Enrico Berti (https://github.com/enricoberti)",
     "Matteo Guarnerio (http://matteoguarnerio.com)",
     "Adrian Jones (https://github.com/adrianbj)",
-    "Dave Long <dave@davejlong.com> (https://github.com/davejlong)"
+    "Dave Long <dave@davejlong.com> (https://github.com/davejlong)",
+    "Mike Hanz <sweetbigdream428@gmail.com> (https://github.com/manager428)"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/markmarkoh/datamaps.git"
+    "url": "https://github.com/manager428/datamaps.git"
   },
   "scripts": {
     "test": "grunt jasmine"
